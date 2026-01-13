@@ -84,6 +84,6 @@ Download and test the Android APK directly:
 ---
 
 ### 👤 Author
-**Muhammad Waqar Haider**
-**Flutter Developer**
+- **Muhammad Waqar Haider**
+- **Flutter Developer**
 
