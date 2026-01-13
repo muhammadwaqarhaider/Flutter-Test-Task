@@ -1,4 +1,4 @@
-# 📱 Flutter Interview Test Task
+# 📱 Flutter Test Task
 
 This repository contains a Flutter interview test task demonstrating clean architecture, state management, UI implementation, and device features usage.
 
@@ -85,4 +85,5 @@ Download and test the Android APK directly:
 
 ### 👤 Author
 **Muhammad Waqar Haider**
+**Flutter Developer**
 
